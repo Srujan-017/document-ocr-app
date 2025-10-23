@@ -13,8 +13,5 @@
     "cors": "^2.8.5",
     "pg": "^8.11.3",
     "tesseract.js": "^5.0.4"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
   }
 }
