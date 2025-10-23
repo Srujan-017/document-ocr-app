@@ -1,12 +1,4 @@
-{ 
-  "name": "document-ocr-app", 
-  "version": "1.0.0", 
-  "description": "Document OCR Application", 
-  "scripts": { 
-    "build": "cd frontend && npm install --unsafe-perm && npm run build", 
-    "start": "cd backend && npm start" 
+}  { 
   }, 
-  "engines": { 
-    "node": "18.x" 
   } 
 } 
